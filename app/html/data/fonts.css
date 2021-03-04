@@ -1,0 +1,25 @@
+@font-face {
+  font-family: G-Copse-n4;
+  font-display: swap;
+  src: url('../data/fonts/copse_v10_11hPGpDKz1rGb0djHkihUb-A.ttf');
+}
+@font-face {
+  font-family: G-Abel-n4;
+  font-display: swap;
+  src: url('../data/fonts/abel_v12_MwQ5bhbm2POE6VhLPJp6qGI.ttf');
+}
+@font-face {
+  font-family: G-Cabin-n4;
+  font-display: swap;
+  src: url('../data/fonts/cabin_v18_u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EL7Gvxm7rE_s.ttf');
+}
+@font-face {
+  font-family: G-Amaranth-n4;
+  font-display: swap;
+  src: url('../data/fonts/amaranth_v11_KtkuALODe433f0j1zPnCF9GqwnzW.ttf');
+}
+@font-face {
+  font-family: G-Cabin-n7;
+  font-display: swap;
+  src: url('../data/fonts/cabin_v18_u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDL7Gvxm7rE_s.ttf');
+}
